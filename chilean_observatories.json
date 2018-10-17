@@ -89,6 +89,13 @@
 		"long": "-70.749417",
 		"elev": 2663
 	},
+	"NANTEN2": {
+		"name": "NANTEN2 Observatory",
+		"web": "http://www.astro.uni-koeln.de/nanten2/",
+		"lat": "-22:58:10.92, ",
+		"long": "-67:42:07.92",
+		"elev": 4800
+	},
 	"OCA": {
 		"name": "Cerro Armazones Observatory",
 		"web": "http://www.eso.org/public/teles-instr/e-elt.html",
