@@ -75,6 +75,13 @@
 		"long": "-70:44:18",
 		"elev": 2400
 	},
+	"LSST": {
+		"name": "Large Synoptic Survey Telescope",
+		"web": "http://www.lsst.org",
+		"lat": "-30.244639",
+		"long": "-70.749417",
+		"elev": 2663
+	},
 	"PBE": {
 		"name": "POLARBEAR Experiment",
 		"web": "http://bolo.berkeley.edu/polarbear/site/",
