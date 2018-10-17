@@ -1,0 +1,99 @@
+{
+	"ALMA": {
+		"name": "Atacama Millimetre (and Sub-Millimetre) Array",
+		"web": "http://www.almaobservatory.org/",
+		"lat": "-23.0193",
+		"long": "-67.7532",
+		"elev": 5000
+	},
+	"APEX": {
+		"name": "Atacama Pathfinder EXperiment",
+		"web": "http://www.apex-telescope.org/",
+		"lat": "-23.0058",
+		"long": "-67.7592",
+		"elev": 5050
+	},
+	"ASTE": {
+		"name": "Atacama Submillimetre Telescope Experiment",
+		"web": "http://alma.mtk.nao.ac.jp/aste/",
+		"lat": "-22:58:17",
+		"long": "-67:42:10",
+		"elev": 4800
+	},
+	"OCA": {
+		"name": "Cerro Armazones Observatory",
+		"web": "http://www.eso.org/public/teles-instr/e-elt.html",
+		"lat": "-24:35:51",
+		"long": "-70:11:47",
+		"elev": 3046
+	},
+	"CPO": {
+		"name": "Cerro Pachon Observatory",
+		"web": "http://www.gemini.edu/",
+		"lat": "-30:14:22",
+		"long": "-70:44:10",
+		"elev": 2200
+	},
+	"CTA-S": {
+		"name": "Cherenkov Telescope Array-South",
+		"web": "http://www.cta-observatory.org/",
+		"lat": "-24.6834278",
+		"long": "-70.3163444"
+	},
+	"CTIO": {
+		"name": "Cerro Tololo International Observatory",
+		"web": "http://www.ctio.noao.edu/",
+		"lat": "-30.169661",
+		"long": "-70.806525",
+		"elev": 2200
+	},
+	"ELT": {
+		"name": "Extremely Large Telescope",
+		"web": "http://www.eso.org/public/teles-instr/e-elt.html",
+		"lat": "-24:35:51",
+		"long": "-70:11:47",
+		"elev": 3046
+	},
+	"GSO": {
+		"name": "Gemini South Observatory",
+		"web": "http://www.gemini.edu/",
+		"lat": "-30:14:22",
+		"long": "-70:44:10",
+		"elev": 2200
+	},
+	"LCO": {
+		"name": "Las Campanas Observatory",
+		"web": "http://www.lco.cl/",
+		"lat": "-29:12:00",
+		"long": "-70:42:07",
+		"elev": 2400
+	},
+	"LSO": {
+		"name": "La Silla Observatory",
+		"web": "http://www.eso.org/public/teles-instr/lasilla/index.html",
+		"lat": "-29:15:25",
+		"long": "-70:44:18",
+		"elev": 2400
+	},
+	"SMO": {
+		"name": "Santa Martina Observatory",
+		"web": "http://www2.astro.puc.cl/ObsUC/index.php/UC_Observatory",
+		"lat":  "-70:32:04",
+		"long": "-33:16:09",
+		"elev": 1450
+	},
+	"SOAR": {
+		"name": "Southern Astrophysical Research Telescope",
+		"web": "http://www.ctio.noao.edu/soar/",
+		"lat": "-30:14:16.8",
+		"long": "-70:44:01.39",
+		"elev": 2738
+	},
+	"VLT": {
+		"name": "Very Large Telescope",
+		"web": "http://www.eso.org/public/teles-instr/vlt",
+		"lat": "-24.62733",
+		"long": "-70.40417",
+		"elev": 2635
+	}
+}
