@@ -34,7 +34,7 @@
 		"long": "-70:44:10",
 		"elev": 2200
 	},
-	"CTA-S": {
+	"CTAS": {
 		"name": "Cherenkov Telescope Array-South",
 		"web": "http://www.cta-observatory.org/",
 		"lat": "-24.6834278",
