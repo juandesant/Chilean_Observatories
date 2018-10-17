@@ -75,6 +75,13 @@
 		"long": "-70:44:18",
 		"elev": 2400
 	},
+	"PBE": {
+		"name": "POLARBEAR Experiment",
+		"web": "http://bolo.berkeley.edu/polarbear/site/",
+		"lat": "-22.958064",
+		"long": "-67.786222",
+		"elev": 5200
+	},
 	"SMO": {
 		"name": "Santa Martina Observatory",
 		"web": "http://www2.astro.puc.cl/ObsUC/index.php/UC_Observatory",
