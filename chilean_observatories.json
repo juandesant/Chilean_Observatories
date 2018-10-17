@@ -20,13 +20,6 @@
 		"long": "-67:42:10",
 		"elev": 4800
 	},
-	"OCA": {
-		"name": "Cerro Armazones Observatory",
-		"web": "http://www.eso.org/public/teles-instr/e-elt.html",
-		"lat": "-24:35:51",
-		"long": "-70:11:47",
-		"elev": 3046
-	},
 	"CPO": {
 		"name": "Cerro Pachon Observatory",
 		"web": "http://www.gemini.edu/",
@@ -88,6 +81,13 @@
 		"lat": "-30.244639",
 		"long": "-70.749417",
 		"elev": 2663
+	},
+	"OCA": {
+		"name": "Cerro Armazones Observatory",
+		"web": "http://www.eso.org/public/teles-instr/e-elt.html",
+		"lat": "-24:35:51",
+		"long": "-70:11:47",
+		"elev": 3046
 	},
 	"PBE": {
 		"name": "POLARBEAR Experiment",
