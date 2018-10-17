@@ -96,6 +96,13 @@
 		"long": "-70:44:01.39",
 		"elev": 2738
 	},
+	"TAO": {
+		"name": "Tokyo Atacama Observatory",
+		"web": "http://www.ioa.s.u-tokyo.ac.jp/TAO/en/",
+		"lat": "-22.986667",
+		"long": "-67.742222",
+		"elev": 5640
+	},
 	"VLT": {
 		"name": "Very Large Telescope",
 		"web": "http://www.eso.org/public/teles-instr/vlt",
