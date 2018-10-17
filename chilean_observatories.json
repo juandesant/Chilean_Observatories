@@ -54,6 +54,13 @@
 		"long": "-70:11:47",
 		"elev": 3046
 	},
+	"GMT": {
+		"name": "Giant Magellan Telescope",
+		"web": "https://www.gmto.org/",
+		"lat": "-29.0283",
+		"long": "-70.6858",
+		"elev": 2516
+	},
 	"GSO": {
 		"name": "Gemini South Observatory",
 		"web": "http://www.gemini.edu/",
