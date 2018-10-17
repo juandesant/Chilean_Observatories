@@ -20,6 +20,13 @@
 		"long": "-67:42:10",
 		"elev": 4800
 	},
+	"CCAT": {
+		"name": "Cornell Caltech Atacama Telescope",
+		"web": "http://www.ccatobservatory.org/",
+		"lat": "-22:59:08.30",
+		"long": "-67:44:25.00",
+		"elev": 5612
+	},
 	"CPO": {
 		"name": "Cerro Pachon Observatory",
 		"web": "http://www.gemini.edu/",
